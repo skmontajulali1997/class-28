@@ -1,0 +1,167 @@
+/* manu */
+.text-a-color{
+    color: #929292;
+}
+/* banner section */
+.banner-content {
+    margin-top: 150px;
+}
+.banner-content h1 {
+    font-weight: 400;
+    font-size: 59px;
+}
+.butttn{
+    background-color: #8490ff ;
+}
+/* about-section */
+.about-content {
+    margin-top: 61px;
+    margin-left: 50px;
+}
+.about-content h1{
+    font-weight: 400;
+    font-size: 59px;
+}
+/* counter-section */
+.counter-section{
+    background-color: #8490ff;
+    padding: 80px 0;
+}
+.counter-section h1{
+    font-weight: bold;
+}
+/* price section */
+
+
+.only-bg{
+    background-color: #fff;
+    padding: 28px 0;
+    
+}
+.only-bg h5{
+    margin-bottom: 40px;
+    color: #777777;
+}
+.number-only{
+    width: 130px;
+    height: 130px;
+    margin: 0 auto;
+}
+.number-only h1{
+    line-height: 130px;
+}
+/* box-section */
+.imggg img {
+    width: 95px;
+    position: relative;
+    top: 35px;
+    left: 20px;
+}
+.box-content {
+    padding-top: 30px;
+}
+/* form section */
+
+.formmmm{
+    background-color: #fff;
+}
+.only-height{
+    height: 300px;
+}
+.only-btn {
+    background-color: #17a2b8;
+    padding: 13px 26px;
+    font-weight: 600;
+}
+.form-right-t {
+    margin-top: 150px;
+    margin-left: 52px;
+}
+
+/* responsive csss */
+
+
+@media(max-width:992px){
+    .mb-menu {
+        color: #7f97ff;
+        font-size: 34px;
+        border: 2px solid;
+        line-height: 47px;
+        border-radius: 7px;
+    }
+    .banner-content {
+        margin-top: 64px;
+    }
+    .banner-content h1 {
+        font-size: 45px;
+    }
+    .only-img img {
+        width: 94%;
+    }
+    .about-content {
+        margin-top: 0px;
+        margin-left: 18px;
+    }
+    .about-content h1 {
+    font-size: 50px;
+}
+.about-content h1 {
+    font-size: 43px;
+}
+img.img-thumbnail {
+    height: 366px;
+}
+  
+.counter-section {
+    padding: 38px 0;
+}
+.number-only {
+    width: 100px;
+    height: 100px;
+   
+}
+.number-only h1 {
+    line-height: 100px;
+}
+.only-bg h5 {
+    margin-bottom: 24px;
+    font-size: 15px;
+}
+.eco-btn {
+    font-size: 15px;
+    padding: 6px 25px;
+    margin-top: 12px;
+}
+.form-right-t {
+    margin-left: 0px;
+}
+.only-height {
+    height: 219px;
+}
+.only-btn {
+    font-size: 14px;
+}
+}
+@media(max-width:400px){
+    .about-content {
+        margin-top: 26px;
+    }
+    .priceing-section h1 {
+        font-size: 20px;
+    }
+    .priceing-section p {
+        font-size: 15px;
+        padding: 4px 19px;
+    }
+    .form-section h1 {
+        font-size: 20px;
+    }
+    .only-f {
+
+        padding: 0px 24px;
+    }
+    .form-right-t {
+        margin-top: 60px;
+    }
+
+}
